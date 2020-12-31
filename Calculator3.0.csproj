@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Calculator3</RootNamespace>
+    <Authors>TheDarkGamer Apps</Authors>
+    <Product>Calculator 3</Product>
+    <Version>1.0.0-Beta</Version>
+    <PackageId>calc3</PackageId>
+    <Description>The 3rd edition of the Calculator apps from TheDarkGamer Apps!</Description>
+    <StartupObject>Calculator3.dataHandler</StartupObject>
+  </PropertyGroup>
+
+</Project>
